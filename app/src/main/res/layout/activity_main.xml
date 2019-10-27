@@ -292,7 +292,7 @@
                             android:layout_width="6dp"
                             android:layout_height="60dp"
                             android:layout_weight="1"
-                            app:srcCompat="@drawable/gioilon" />
+                            app:srcCompat="@drawable/giooi" />
                     </LinearLayout>
 
                     <LinearLayout
